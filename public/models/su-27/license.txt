@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sukhoi SU-35 Fighter Jet
+* source:	https://sketchfab.com/3d-models/sukhoi-su-35-fighter-jet-ec06a0fefc3c44489aafbe9ed129b97d
+* author:	Muhamad Mirza Arrafi (https://sketchfab.com/nazidefenseforceofficial)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sukhoi SU-35 Fighter Jet" (https://sketchfab.com/3d-models/sukhoi-su-35-fighter-jet-ec06a0fefc3c44489aafbe9ed129b97d) by Muhamad Mirza Arrafi (https://sketchfab.com/nazidefenseforceofficial) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
